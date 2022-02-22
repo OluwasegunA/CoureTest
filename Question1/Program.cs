@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-class Program{
+﻿public class Program{
   public Program(){}
   public static int totalScore(int[] arr){
     int result = 0;
